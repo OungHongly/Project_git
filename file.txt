@@ -6,3 +6,6 @@ more feature-1 branch code.
 new feature main
 
 add new feature-1
+
+fix bug 1
+fix bug 2
