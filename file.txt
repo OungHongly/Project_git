@@ -11,4 +11,6 @@ fix bug 1
 fix bug 2
 
 add feature 2
-user2 add feature
+new function introduce
+
+user2 coding
