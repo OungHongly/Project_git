@@ -9,3 +9,5 @@ add new feature-1
 
 fix bug 1
 fix bug 2
+
+add feature 2
