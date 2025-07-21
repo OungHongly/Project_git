@@ -2,3 +2,5 @@ This is main code.
 this is main function.
 feature-1 branch code.
 more feature-1 branch code.
+
+new feature main
